@@ -1,0 +1,1 @@
+module.exports.BookService = require("./book.services");
